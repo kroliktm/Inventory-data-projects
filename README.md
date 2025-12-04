@@ -1,1 +1,1 @@
-# Inventory-data-projects
+# data-analyse-projects-learning
