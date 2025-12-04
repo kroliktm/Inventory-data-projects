@@ -1,2 +1,2 @@
-# junior-data-analyst-portfolio
+# data-analysis-practice
 
